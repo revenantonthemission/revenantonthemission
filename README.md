@@ -1,4 +1,3 @@
-<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&text=Life%20never%20ends&fontAlign=30&fontSize=30&desc=just%20like%20this%20torus%20that%20spins%20forever.&descAlign=70&descAlignY=50&theme=radical)
 
@@ -7,9 +6,12 @@
 
 [My Blog](https://rvnnt.dev)
 
+<div align="center">
+
 I am an open-source developer working on projects related to FastAPI, Svelte, Spring, Docker, Nginx, and Github Actions.
 
-![Rotating ASCII Torus](torus.svg)
+![Torus](./torus-dark.svg#gh-dark-mode-only)
+![Torus](./torus-light.svg#gh-light-mode-only)
 
 Life never ends......just like this torus that spins forever.
 
@@ -43,8 +45,7 @@ Life never ends......just like this torus that spins forever.
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=forabetterday)](https://solved.ac/forabetterday)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=forabetterday&theme=warm)
 
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

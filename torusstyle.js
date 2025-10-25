@@ -1,8 +1,9 @@
 import fs from "fs";
-let text = `
-/* Default: Dark mode (with background) */
+
+// Dark mode styles
+let darkStyles = `
 svg {
-    background: #0d1117;
+    background: transparent;
 }
 
 .donut {
@@ -10,22 +11,25 @@ svg {
     font-family: monospace;
     text-anchor: middle;
 }
+`;
 
-/* Light mode using media query */
-@media (prefers-color-scheme: light) {
-    svg {
-        background: #ffffff;
-    }
-
-    .donut {
-        fill: #24292f;
-    }
+// Light mode styles
+let lightStyles = `
+svg {
+    background: transparent;
 }
-`
+
+.donut {
+    fill: #24292f;
+    font-family: monospace;
+    text-anchor: middle;
+}
+`;
 
 let frames = 120;
+let animationCSS = '';
 for (let i = 1; i <= frames; i++) {
-    text += `
+    animationCSS += `
     .donut${i} {
         animation: donut${i} 6s linear infinite;
     }
@@ -34,7 +38,9 @@ for (let i = 1; i <= frames; i++) {
         ${100 / frames * (i - 1) + 0.00000001}%, ${100 / frames * (i)}% { opacity: 1; }
         ${100 / frames * i + 0.00000001}%, 100% { opacity: 0; }
     }
-    `
+    `;
 }
 
-fs.writeFileSync("./torusstyle.txt", text)
+// Write both versions
+fs.writeFileSync("./torusstyle-dark.txt", darkStyles + animationCSS);
+fs.writeFileSync("./torusstyle-light.txt", lightStyles + animationCSS);
