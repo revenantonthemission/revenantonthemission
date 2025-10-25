@@ -1,12 +1,14 @@
 
+<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=rect&text=Life%20never%20ends&fontAlign=30&fontSize=30&desc=just%20like%20this%20torus%20that%20spins%20forever.&descAlign=70&descAlignY=50&theme=radical)
+
 
 # 👋🏼 Hi there!
 
 
 [My Blog](https://rvnnt.dev)
 
-<div align="center">
 
 I am an open-source developer working on projects related to FastAPI, Svelte, Spring, Docker, Nginx, and Github Actions.
 
@@ -40,12 +42,13 @@ Life never ends......just like this torus that spins forever.
 
 ## Stats:
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revenantonthemission)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=forabetterday)](https://solved.ac/forabetterday)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=forabetterday&theme=warm)
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=forabetterday&theme=warm)
 
 </div>
 
