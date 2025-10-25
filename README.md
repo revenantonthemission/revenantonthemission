@@ -18,13 +18,8 @@ Life never ends......just like this torus that spins forever.
 
 ## Currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/revenantonthemission/sogangcomputerclub.org)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/revenantonthemission/pintos)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/revenantonthemission/pintos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=revenantonthemission&repo=sogangcomputerclub.org)](https://github.com/revenantonthemission/sogangcomputerclub.org)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=revenantonthemission&repo=pintos)](https://github.com/revenantonthemission/pintos)
 
 ## Skills:
 
@@ -50,10 +45,13 @@ svelte&logoColor=white"/>
 
 ## Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revenantonthemission)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=forabetterday)](https://solved.ac/forabetterday)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=forabetterday&theme=warm)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=revenantonthemission)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 </div>
 
