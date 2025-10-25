@@ -1,9 +1,25 @@
 import fs from "fs";
 let text = `
+/* Default: Dark mode */
+svg {
+    background: #0d1117;
+}
+
 .donut {
-    fill: white;
+    fill: #c9d1d9;
     font-family: monospace;
     text-anchor: middle;
+}
+
+/* Light mode using media query */
+@media (prefers-color-scheme: light) {
+    svg {
+        background: #ffffff;
+    }
+
+    .donut {
+        fill: #24292f;
+    }
 }
 `
 
