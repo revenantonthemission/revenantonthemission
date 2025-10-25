@@ -1,21 +1,24 @@
 import fs from "fs";
 let text = `
-/* Transparent background to inherit from page */
+/* Default: Dark mode (with background) */
 svg {
-    background: transparent;
+    background: #0d1117;
 }
 
-/* Default: Light mode (GitHub profile default) */
 .donut {
-    fill: #24292f;
+    fill: #c9d1d9;
     font-family: monospace;
     text-anchor: middle;
 }
 
-/* Dark mode using media query */
-@media (prefers-color-scheme: dark) {
+/* Light mode using media query */
+@media (prefers-color-scheme: light) {
+    svg {
+        background: #ffffff;
+    }
+
     .donut {
-        fill: #c9d1d9;
+        fill: #24292f;
     }
 }
 `
