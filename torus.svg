@@ -1,25 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="600">
   <style>
 
-/* Default: Dark mode */
+/* Transparent background to inherit from page */
 svg {
-    background: #0d1117;
+    background: transparent;
 }
 
+/* Default: Light mode (GitHub profile default) */
 .donut {
-    fill: #c9d1d9;
+    fill: #24292f;
     font-family: monospace;
     text-anchor: middle;
 }
 
-/* Light mode using media query */
-@media (prefers-color-scheme: light) {
-    svg {
-        background: #ffffff;
-    }
-
+/* Dark mode using media query */
+@media (prefers-color-scheme: dark) {
     .donut {
-        fill: #24292f;
+        fill: #c9d1d9;
     }
 }
 
