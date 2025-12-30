@@ -17,11 +17,6 @@ I am a senior student working on projects related to FastAPI, Svelte, Spring, Do
 
 Life never ends......just like this torus that spins forever.
 
-## Currently working on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=revenantonthemission&repo=sogangcomputerclub.org)](https://github.com/revenantonthemission/sogangcomputerclub.org)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=revenantonthemission&repo=pintos)](https://github.com/revenantonthemission/pintos)
-
 ## Skills:
 
 ### Daily:
@@ -37,10 +32,6 @@ Life never ends......just like this torus that spins forever.
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
 
 ## Stats:
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=revenantonthemission&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revenantonthemission)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=forabetterday)](https://solved.ac/forabetterday)
 
