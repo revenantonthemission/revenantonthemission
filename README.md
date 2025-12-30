@@ -10,12 +10,10 @@
 [My Blog](https://rvnnt.dev)
 
 
-I am a senior student working on projects related to FastAPI, Svelte, Spring, Docker, Nginx, and Github Actions.
+I am a senior student working seeking for open source contributions.
 
 ![Torus](./torus-dark.svg#gh-dark-mode-only)
 ![Torus](./torus-light.svg#gh-light-mode-only)
-
-Life never ends......just like this torus that spins forever.
 
 ## Skills:
 
