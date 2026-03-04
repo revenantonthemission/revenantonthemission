@@ -10,7 +10,7 @@
 [My Blog](https://rvnnt.dev)
 
 
-I am a senior student working seeking for open source contributions.
+Currently an Computer Engineering & Chiense Culture graduate, seeking for job opportunies & open source contributions.
 
 ![Torus](./torus-dark.svg#gh-dark-mode-only)
 ![Torus](./torus-light.svg#gh-light-mode-only)
@@ -21,12 +21,14 @@ I am a senior student working seeking for open source contributions.
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-### Currently Not Using:
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=FF9900"/>
+
+### Currently Not Using:
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
 
 ## Stats:
