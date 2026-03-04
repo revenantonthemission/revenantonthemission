@@ -10,7 +10,7 @@
 [My Blog](https://rvnnt.dev)
 
 
-Currently an Computer Engineering & Chiense Culture graduate, seeking for job opportunies & open source contributions.
+Majored in Computer Engineering & Chiense Culture, seeking for job opportunies & open source contributions.
 
 ![Torus](./torus-dark.svg#gh-dark-mode-only)
 ![Torus](./torus-light.svg#gh-light-mode-only)
